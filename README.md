@@ -1,2 +1,7 @@
-# DS1307.hPTBR
-A biblioteca dos mÃ³dulos DS1307 e DS3231 com os dias da semana em portuguÃªs
+# DS1307
+Biblioteca DS1307 - Arduino
+
+Utilização com o exemplo do Blog FILIPEFLOP
+
+http://blog.filipeflop.com/modulos/relogio-rtc-ds1307-arduino.html
+
